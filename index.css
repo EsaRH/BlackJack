@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url("https://img.freepik.com/premium-photo/green-poker-table_190083-11.jpg");
+    background-size: cover;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    line-height: 45px;
+
+}
+
+h1 {
+    color: goldenrod;
+
+}
+
+#message-el {
+    font-style: italic;
+
+}
+
+button {
+    color: #016f32;
+    width: 150px;
+    background-color: goldenrod;
+    border-radius: 5px;
+    padding: 5px;
+    font-weight: bold;
+    border: none;
+
+}
